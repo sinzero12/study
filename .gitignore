@@ -1,0 +1,8 @@
+yolo_project/venv/
+yolo_project/demo-bin-picking/
+yolo_project/test_videos/
+yolo_project/HccePose/
+yolo_project/test_imgs/
+**/*.pt
+**/*.mp4
+.DS_Store
